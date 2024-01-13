@@ -1,0 +1,141 @@
+.h1{
+    color: aqua;
+    font-size: 100px;
+} 
+/* 1   */
+.box{
+    text-align: center;
+  gap: 50px;
+}
+.inp1{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.inp2{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.btn{
+    margin-top: 10px;
+    width: 250px;
+    height: 35px;
+    font-size: 20px;
+    color: red;
+    border-radius: 10px;
+}
+.p{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+
+
+
+/* 2 */
+
+
+.hh{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 100px;
+}
+.text{
+    text-align: center;
+    border: 2px solid yellow;
+    width: 50%;
+    height: 80px;
+}
+.btn1{
+    font-size: 20px;
+    color: blue;
+    padding: 10px 70px;
+    border-radius: 10px;
+}
+.inpp1{
+    width: 250px;
+    height: 20px;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+
+
+
+/* 3 */
+
+.sar{
+    text-align: center;
+    margin-top: 150px;
+    color: darkslateblue;
+    font-size: 40px;
+}
+.innp2{
+    width: 30%;
+    padding: 16px 0;
+    border-radius: 10px;
+}
+.bttn2{
+   width: 20%;
+    padding: 10px 0;
+    font-size: 20px; 
+    color: blueviolet;
+    border-radius: 10px;
+}
+.ereee{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 40px;
+}
+
+/* 4 */
+.week{
+    margin-top: 150px;
+    text-align: center;
+}
+
+
+
+/* 5 */
+.content{
+    width: 50%;
+    height: 55vh;
+    background-color: aqua;
+    border-radius: 50px;
+    margin-top: 200px;
+    margin-left: 450px;
+    text-align: center;
+    margin-bottom: 200px;
+}
+.for{
+    text-align: center;
+    width: 40%;
+    height: 5vh;
+    font-size: 30px;
+}
+.form{
+    margin-top: 40px;
+    text-align: center;
+    width: 40%;
+    height: 5vh;
+    font-size: 30px;
+}
+.form1{
+    margin-top: 40px;
+    text-align: center;
+    width: 20%;
+    height: 5vh;
+    font-size: 30px;
+}
+.wr{
+    font-size: 50px;
+    margin-top: 40px;
+    color: chocolate;
+}
+
+
+.dark{
+    display: none;
+}
